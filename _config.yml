@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Where the mind is without fear and the head is held high, where knowledge is free. Where the world has not been broken up into fragments by narrow domestic walls" - Tagore.
+title: Let's explore together! 
 email: jishnu.mt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
