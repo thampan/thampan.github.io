@@ -2,7 +2,7 @@
 title: "Post: Programmable data plane"
 date: 2020-04-15T15:34:30-04:00
 categories:
-  - blog
+  - Networking
 tags:
   - networking
 ---
