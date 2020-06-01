@@ -3,7 +3,6 @@ title: "IPSec explained in detail"
 categories:
   - Networking
 tags:
-  - link
   - networking
 link: https://networklessons.com/cisco/ccie-routing-switching/ipsec-internet-protocol-security
 ---
