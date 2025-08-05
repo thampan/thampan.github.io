@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": "My personal developer portfolio hosted on GitHub Pages.",
+    "link": "https://github.com/yourusername/portfolio"
+  },
+  {
+    "name": "Weather App",
+    "description": "A simple weather app using OpenWeather API.",
+    "link": "https://github.com/yourusername/weather-app"
+  }
+]
